@@ -8,9 +8,9 @@
   ```
 
   # Usage
-  * docker pull fulfill2/workshop2
+  * docker pull fulfill2/finaltest
   * docker images
-  * docker run -it fulfill2/workshop2:latest
+  * docker run -it fulfill2/finaltest:latest
 
   ```
    $ docker build --tag fulfill2/finaltest .
