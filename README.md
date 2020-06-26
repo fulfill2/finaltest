@@ -14,6 +14,6 @@
 
   ```
    $ docker build --tag fulfill2/finaltest .
-    $ docker run -it fulfill2/finaltest:latest
+   $ docker run -it fulfill2/finaltest:latest
      root@1a35d80d544f:/# 
-     ```
+  ```
